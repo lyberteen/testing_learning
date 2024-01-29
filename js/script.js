@@ -1,0 +1,12 @@
+//console.log(typeof 3);
+//console.log(typeof "test");
+//console.log(typeof true);
+//const value = "3";
+//console.log(Number(value));
+//console.log(typeof Number(value));
+//let str = "hello";
+//let str2 = "huyna";
+//let phrase = 'zalupa';
+let name ='Vasya';
+let hello = `zdarova ${name}`;
+console.log(hello);
